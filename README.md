@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **A travel app called GoWander**
 
-- 🌱 I’m currently learning **Python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Edenlsw](https://github.com/Edenlsw)
 
 - 📫 How to reach me **edenwint@gmail.com**
