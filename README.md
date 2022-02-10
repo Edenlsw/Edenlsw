@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eden</h1>
 <h3 align="center">A passionate developer from The West Midlands</h3>
-
-- 🔭 I’m currently working on **A travel app called GoWander**
+<!-- 
+- 🔭 I’m currently working on **A travel app called GoWander** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Edenlsw](https://github.com/Edenlsw)
 
