@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Edenlsw](https://github.com/Edenlsw)
 
-- 📫 How to reach me **edenwint@gmail.com**
 
 - ⚡ Fun fact **I'm allergic to all animals with fur :(**
 
